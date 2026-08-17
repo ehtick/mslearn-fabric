@@ -117,9 +117,9 @@ Now you're ready to run code to get data. You'll work with the [**OJ Sales datas
 
 Now that we have loaded the data, the next step is to preprocess it using Data Wrangler. Preprocessing is a crucial step in any machine learning workflow. It involves cleaning the data and transforming it into a format that can be fed into a machine learning model.
 
-1. Select **Data** in the notebook ribbon, and then select **Launch Data Wrangler** dropdown.
+1. Select **Data Wrangler** in the notebook ribbon, and then select the `df` dataset.
 
-1. Select the `df` dataset. When Data Wrangler launches, it generates a descriptive overview of the dataframe in the **Summary** panel.
+1. When Data Wrangler launches, it generates a descriptive overview of the dataframe in the **Summary** panel.
 
 1. Select the **Revenue** feature, and observe the data distribution of this feature.
 
